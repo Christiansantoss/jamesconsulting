@@ -1,0 +1,239 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+
+body{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#wrapper{
+    background-color: #213dac;
+    height: 980px;
+    width: 870px;
+    margin: auto;
+}
+
+#header{
+    background-color: #213dac;
+    height: 60px;
+    width: 870px;
+
+}
+
+#maincontent {
+    background-color: white;
+    width:770px;
+    padding: 20px;
+    margin-left: 27px;
+    height: 866px;
+
+}
+
+.subcontent img {
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    margin-left: 6px;
+}
+.subcontent div {
+    display: inline-block;
+    color: white;
+    margin-top: 7px;
+    vertical-align: top;
+}
+
+p{
+    margin:10px;
+    text-align:justify;
+    color: #ffffff
+}
+
+.snowboard img{
+    width: 749px;
+    height: 400px;
+    margin-left: 10px;
+}
+
+.subcontent {
+    display: inline-block;
+    width: 233px;
+    vertical-align: top;
+    margin: 10px;
+    height: 200px;
+    background-color: #001876
+}
+
+.name {
+    font-weight: bold;
+    font-size: 25px;
+    display: inline-block;
+    width: 76px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    margin-left: 55px;
+    margin-top: 20px;
+    vertical-align: middle;
+}
+
+.name1 {
+    font-weight: bold;
+    font-size: 25px;
+    display: inline-block;
+    width: 156px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 0, 0);
+    margin-left: 7px;
+    vertical-align: middle;
+    margin-top: 20px;
+}    
+
+.sidetitle {
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 0px;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 2px;
+    vertical-align: middle;
+    margin-top: 20px;
+}
+.sidetitle1 {
+    font-weight: bold;
+    font-size: 20px;
+    display: inline-block;
+    color: black;
+    margin-left: 140px;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: middle;
+    margin-top: 20px;
+}
+
+.titles {
+    height: 10px;
+    font-size: 20px;
+}
+
+#midsection {
+    background-color: #ffffff;
+    height: 74px;
+    width: 756px;
+    margin-left: 7px;
+}
+
+.slogan {
+    font-weight: bold;
+    font-size: 18px;
+    padding: 13px;
+    display: inline-block;
+    width: 323px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 14px;
+    margin-left: -9px;
+    color:rgb(0, 0, 0);
+}
+
+.slogan1 {
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 5px;
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 171px;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+.building img {
+    width: 25px;
+    margin: 5px;
+    display: inline-block;
+
+}
+
+#lowersection {
+    background-color: #ffffff;
+    width: 756px;
+    margin-left: 7px;
+    height: 150px;
+
+}
+
+.about {
+    display: inline-block;
+    width: 200px;
+    vertical-align: top;
+    margin-left: 8px;
+    
+}
+
+blockquote {
+    background: rgb(97, 152, 235);
+    border-radius: 5px;
+    display: inline-block;
+    width: 240px;
+    vertical-align: top;
+}
+
+blockquote p {
+    padding: 15px;
+    color: black;
+    display: inline-block;
+}
+
+blockquote p::before {
+    content: '\201C';
+}
+
+blockquote p::after {
+    content: '\201D';
+}
+
+.cite {
+    display:inline-block;
+    width: 210px;
+    margin-left: 507px;
+    margin-bottom: 2px;
+    margin-top: -34px;
+    vertical-align: top;
+}
+
+#footer {
+    width: 783px;
+    background-color: rgb(35, 138, 223);
+    margin-left: -54px;
+    padding-left: 87px;
+    margin-top: -15px;
+    height: 47px;
+}
+
+.section1 {
+    display: inline-block;
+    color: rgb(49, 108, 148);
+    width: 36px;
+    text-align: center;
+    margin-left: 236px;
+}
+
+.section2 {
+    display: inline-block;
+    color: rgb(0, 0, 0);
+    width: 196px;
+    text-align: center;
+    margin-top: 16px
+}
+
+.button {
+    color: white;
+    background-color: rgb(51, 51, 163);
+    font-size: 16px;
+    border-radius: 6px;
+    margin-left: 14px;
+}
